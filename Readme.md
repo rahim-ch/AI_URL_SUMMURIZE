@@ -77,3 +77,5 @@ You can copy the above content and save it in a `README.md` file in the root dir
 Feel free to customize the README file further to add more specific instructions, documentation, or additional sections as needed for your project.
 </code></pre>
 
+![Screenshot 2023-05-21 073607](https://github.com/rahim-ch/AI_URL_SUMMURIZE/assets/116936569/6b3e1a65-d4e0-4b87-86d8-e68ca08e65d7)
+
